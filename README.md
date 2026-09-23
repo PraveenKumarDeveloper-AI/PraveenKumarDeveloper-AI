@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PraveenKumarinstaking">
-    <img src="https://img.shields.io/github/followers/PraveenKumarinstaking?label=Followers&style=for-the-badge">
+  <a href="https://github.com/PraveenKumarDeveloper-AI">
+    <img src="https://img.shields.io/github/followers/PraveenKumarDeveloper-AI?label=Followers&style=for-the-badge">
   </a>
-  <a href="https://github.com/PraveenKumarinstaking?tab=repositories">
+  <a href="https://github.com/PraveenKumarDeveloper-AI?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-59-blue?style=for-the-badge">
   </a>
 </p>
